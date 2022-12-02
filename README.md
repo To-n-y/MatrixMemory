@@ -1,2 +1,2 @@
 # Matrix Memory
-### Simple game written on C++ using QT framework
+### Simple game written in C++ using QT framework
